@@ -1,0 +1,7 @@
+{
+  "claims": [
+    {"claim":"Đơn từ 500.000 đồng được miễn phí giao hàng tiêu chuẩn.","label":"supported","source_id":"S2","quote":"Đơn hàng từ 500.000 đồng trở lên được miễn phí giao hàng tiêu chuẩn."},
+    {"claim":"Khách hàng có thể yêu cầu đổi trả trong 14 ngày kể từ khi nhận hàng.","label":"contradicted","source_id":"S3","quote":"Khách hàng có thể yêu cầu đổi trả trong 7 ngày kể từ khi nhận hàng."},
+    {"claim":"Máy tính được bảo hành 24 tháng.","label":"insufficient_evidence","source_id":null,"quote":null}
+  ]
+}

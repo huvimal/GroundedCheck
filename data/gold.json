@@ -1,0 +1,11 @@
+[
+  {"id":"01","claim":"Đơn 500.000 đồng đủ điều kiện miễn phí giao hàng tiêu chuẩn.","label":"supported","source_id":"S2"},
+  {"id":"02","claim":"Khách hàng có 7 ngày từ lúc nhận hàng để yêu cầu đổi trả.","label":"supported","source_id":"S3"},
+  {"id":"03","claim":"Bộ phận hỗ trợ làm việc vào thứ Ba.","label":"supported","source_id":"S4"},
+  {"id":"04","claim":"Đơn dưới 500.000 đồng được miễn phí giao hàng tiêu chuẩn.","label":"contradicted","source_id":"S2"},
+  {"id":"05","claim":"Sản phẩm đã qua sử dụng đáp ứng điều kiện đổi trả.","label":"contradicted","source_id":"S3"},
+  {"id":"06","claim":"Bộ phận hỗ trợ mở cửa vào Chủ nhật.","label":"contradicted","source_id":"S4"},
+  {"id":"07","claim":"Cửa hàng bảo hành máy tính 24 tháng.","label":"insufficient_evidence","source_id":null},
+  {"id":"08","claim":"Cửa hàng nhận thanh toán bằng thẻ Visa.","label":"insufficient_evidence","source_id":null},
+  {"id":"09","claim":"Email của bộ phận hỗ trợ là support@example.com.","label":"insufficient_evidence","source_id":null}
+]
